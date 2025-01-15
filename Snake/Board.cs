@@ -11,11 +11,16 @@ namespace Snake
         public int Width { get; set; }
         public int Height { get; set; }
 
-        public Board() {
-            Width = 70;
-            Height = 25;
+        public Board(int Width, int Height) {
+            this.Width = Width;
+            this.Width = Height;
         }
 
+        public Board()
+        {
+            this.Width = 50;
+            this.Height = 25;
+        }
 
         public void Write()
         {
