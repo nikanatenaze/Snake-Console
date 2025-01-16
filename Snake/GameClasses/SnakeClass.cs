@@ -35,6 +35,8 @@ namespace Snake.GameClasses
 
         public void Run()
         {
+            Background.TurnOn();
+            Console.CursorVisible = false;
             while (true)
             {
                 Board.Write();

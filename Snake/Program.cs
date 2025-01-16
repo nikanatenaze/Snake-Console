@@ -1,4 +1,5 @@
 ﻿using Snake.GameClasses;
 using Snake.Menu;
 
-Menu.Start();
+SnakeClass snake = new SnakeClass();
+snake.Run();
