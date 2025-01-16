@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nikanatenaze\\Desktop\\STEP\\Back End\\Snake\\Snake\\Snake.csproj": {}
+    "C:\\Users\\nikanatenaze\\Desktop\\GitHubProjects\\Snake-Console\\Snake\\Snake.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nikanatenaze\\Desktop\\STEP\\Back End\\Snake\\Snake\\Snake.csproj": {
+    "C:\\Users\\nikanatenaze\\Desktop\\GitHubProjects\\Snake-Console\\Snake\\Snake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nikanatenaze\\Desktop\\STEP\\Back End\\Snake\\Snake\\Snake.csproj",
+        "projectUniqueName": "C:\\Users\\nikanatenaze\\Desktop\\GitHubProjects\\Snake-Console\\Snake\\Snake.csproj",
         "projectName": "Snake",
-        "projectPath": "C:\\Users\\nikanatenaze\\Desktop\\STEP\\Back End\\Snake\\Snake\\Snake.csproj",
+        "projectPath": "C:\\Users\\nikanatenaze\\Desktop\\GitHubProjects\\Snake-Console\\Snake\\Snake.csproj",
         "packagesPath": "C:\\Users\\nikanatenaze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nikanatenaze\\Desktop\\STEP\\Back End\\Snake\\Snake\\obj\\",
+        "outputPath": "C:\\Users\\nikanatenaze\\Desktop\\GitHubProjects\\Snake-Console\\Snake\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikanatenaze\\AppData\\Roaming\\NuGet\\NuGet.Config",

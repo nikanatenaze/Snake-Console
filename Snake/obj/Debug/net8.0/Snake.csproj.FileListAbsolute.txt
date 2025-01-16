@@ -12,3 +12,18 @@ C:\Users\nikanatenaze\Desktop\STEP\Back End\Snake\Snake\obj\Debug\net8.0\refint\
 C:\Users\nikanatenaze\Desktop\STEP\Back End\Snake\Snake\obj\Debug\net8.0\Snake.pdb
 C:\Users\nikanatenaze\Desktop\STEP\Back End\Snake\Snake\obj\Debug\net8.0\Snake.genruntimeconfig.cache
 C:\Users\nikanatenaze\Desktop\STEP\Back End\Snake\Snake\obj\Debug\net8.0\ref\Snake.dll
+C:\Users\nikanatenaze\Desktop\GitHubProjects\Snake-Console\Snake\bin\Debug\net8.0\Snake.exe
+C:\Users\nikanatenaze\Desktop\GitHubProjects\Snake-Console\Snake\bin\Debug\net8.0\Snake.deps.json
+C:\Users\nikanatenaze\Desktop\GitHubProjects\Snake-Console\Snake\bin\Debug\net8.0\Snake.runtimeconfig.json
+C:\Users\nikanatenaze\Desktop\GitHubProjects\Snake-Console\Snake\bin\Debug\net8.0\Snake.dll
+C:\Users\nikanatenaze\Desktop\GitHubProjects\Snake-Console\Snake\bin\Debug\net8.0\Snake.pdb
+C:\Users\nikanatenaze\Desktop\GitHubProjects\Snake-Console\Snake\obj\Debug\net8.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikanatenaze\Desktop\GitHubProjects\Snake-Console\Snake\obj\Debug\net8.0\Snake.AssemblyInfoInputs.cache
+C:\Users\nikanatenaze\Desktop\GitHubProjects\Snake-Console\Snake\obj\Debug\net8.0\Snake.AssemblyInfo.cs
+C:\Users\nikanatenaze\Desktop\GitHubProjects\Snake-Console\Snake\obj\Debug\net8.0\Snake.csproj.CoreCompileInputs.cache
+C:\Users\nikanatenaze\Desktop\GitHubProjects\Snake-Console\Snake\obj\Debug\net8.0\Snake.sourcelink.json
+C:\Users\nikanatenaze\Desktop\GitHubProjects\Snake-Console\Snake\obj\Debug\net8.0\Snake.dll
+C:\Users\nikanatenaze\Desktop\GitHubProjects\Snake-Console\Snake\obj\Debug\net8.0\refint\Snake.dll
+C:\Users\nikanatenaze\Desktop\GitHubProjects\Snake-Console\Snake\obj\Debug\net8.0\Snake.pdb
+C:\Users\nikanatenaze\Desktop\GitHubProjects\Snake-Console\Snake\obj\Debug\net8.0\Snake.genruntimeconfig.cache
+C:\Users\nikanatenaze\Desktop\GitHubProjects\Snake-Console\Snake\obj\Debug\net8.0\ref\Snake.dll

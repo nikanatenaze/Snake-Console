@@ -4,22 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Snake
+namespace Snake.GameClasses
 {
     internal class Board
     {
         public int Width { get; set; }
         public int Height { get; set; }
 
-        public Board(int Width, int Height) {
+        public Board(int Width, int Height)
+        {
             this.Width = Width;
             this.Width = Height;
         }
 
         public Board()
         {
-            this.Width = 50;
-            this.Height = 25;
+            Width = 50;
+            Height = 25;
         }
 
         public void Write()
