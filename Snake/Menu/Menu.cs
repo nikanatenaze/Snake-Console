@@ -1,4 +1,5 @@
-﻿using Snake.Design;
+﻿using Pong_Console.Menu;
+using Snake.Design;
 using Snake.GameClasses;
 using System;
 using System.Collections.Generic;
@@ -12,38 +13,19 @@ namespace Snake.Menu
     {
         public static void Start()
         {
-            while (true)
-            {
-                try
-                {
-                    Console.Clear();
-                    Background.TurnOn();
-                    Custom.Title();
-                    Custom.Line();
-                    Say.Green("1", "Play");
-                    Say.Green("2", "Settings");
-                    Say.Red("Any", "Exit");
-                    Console.Write(" Option: ");
-                    int option = int.Parse(Console.ReadLine());
-                    if (option == 1)
-                    {
-                        SnakeClass snake = new SnakeClass();
-                        Console.Clear();
-                        snake.Run();
-                    }
-                    else if (option == 2)
-                    {
-                    }
-                    else
-                    {
-                        break;
-                    }
-                }
-                catch (Exception ex)
-                {
-                    Say.Red("Error", $"Message: {ex.Message}");
-                }
-            }
+            var values = new List<string>() { "Play", "Exit" };
+            var methods = new List<Action>() { Play, Exit};
+            GameMenu gm = new GameMenu(values, methods);
+            gm.Execute();
+        }
+
+        public static void Play() {
+            var i = new Game();
+            i.Run();
+        }
+
+        public static void Exit() {
+            Environment.Exit(0);
         }
     }
 }

@@ -6,31 +6,37 @@ using System.Threading.Tasks;
 
 namespace Snake.GameClasses
 {
-    internal class Ball
+    public class Snake
     {
         public int Width { get; set; }
         public int Height { get; set; }
         public bool FoodExists { get; set; } = false;
-        public (int, int) FoodXY { get; set; }
+        public (int X, int Y) FoodCords { get; set; }
         public static List<(int x, int y)> Parts = new List<(int x, int y)>();
-        public static (int x, int y) Direction = (0, -1);
+        public static (int x, int y) Direction { get; set; }
 
-        public Ball(int Width, int Height)
+        public Snake(int Width, int Height, (int, int) direction, (int, int) FoodCords)
         {
             this.Width = Width;
             this.Height = Height;
             Parts.Add((Width / 2, Height / 2));
+            Direction = direction;
+            this.FoodCords = FoodCords;
         }
-        public Ball()
+        public Snake()
         {
             Width = 50;
             Height = 25;
             Parts.Add((Width / 2, Height / 2));
         }
 
+        public static void UpdateFoodCords(int x, int y)
+        {
+            Direction = (x, y);
+        }
+
         public bool Move()
         {
-            GenerateFood();
             if (Check())
             {
                 var newHead = (Parts[0].x + Direction.x, Parts[0].y + Direction.y);
@@ -44,7 +50,7 @@ namespace Snake.GameClasses
                     Parts[i] = Parts[i - 1];
                 }
                 Parts[0] = newHead;
-                if (newHead.Item1 == FoodXY.Item1 && newHead.Item2 == FoodXY.Item2)
+                if (newHead.Item1 == FoodCords.X && newHead.Item2 == FoodCords.Y)
                 {
                     Parts.Insert(0, newHead);
                     FoodExists = false;
@@ -58,6 +64,14 @@ namespace Snake.GameClasses
             }
         }
 
+        public void Run()
+        {
+            if(Move())
+            {
+                
+            }
+        }
+
         public bool Check()
         {
             (int, int) FirstPart = Parts[0];
@@ -65,21 +79,6 @@ namespace Snake.GameClasses
             if (FirstPart.Item2 == 0 || FirstPart.Item2 == Height) { return false; }
             return true;
         }
-
-        public void GenerateFood()
-        {
-            Random random = new Random();
-            if (!FoodExists)
-            {
-                int X = random.Next(1, Width - 1);
-                int Y = random.Next(1, Height - 1);
-                FoodXY = (X, Y);
-                FoodExists = true;
-                Console.SetCursorPosition(X, Y);
-                Console.WriteLine("×");
-            }
-        }
-
         public void Write()
         {
             foreach (var i in Parts)
