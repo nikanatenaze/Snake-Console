@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\nikanatenaze\\Desktop\\GitHubProjects\\Snake-Console\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{470AA019-48BD-4A54-8DE3-B3B411DD2131}|Snake\\Snake.csproj|c:\\users\\nikanatenaze\\desktop\\githubprojects\\snake-console\\snake\\gameclasses\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{470AA019-48BD-4A54-8DE3-B3B411DD2131}|Snake\\Snake.csproj|solutionrelative:snake\\gameclasses\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{470AA019-48BD-4A54-8DE3-B3B411DD2131}|Snake\\Snake.csproj|c:\\users\\nikanatenaze\\desktop\\githubprojects\\snake-console\\snake\\gameclasses\\snakec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470AA019-48BD-4A54-8DE3-B3B411DD2131}|Snake\\Snake.csproj|solutionrelative:snake\\gameclasses\\snakec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{470AA019-48BD-4A54-8DE3-B3B411DD2131}|Snake\\Snake.csproj|c:\\users\\nikanatenaze\\desktop\\githubprojects\\snake-console\\snake\\gameclasses\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{470AA019-48BD-4A54-8DE3-B3B411DD2131}|Snake\\Snake.csproj|solutionrelative:snake\\gameclasses\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{470AA019-48BD-4A54-8DE3-B3B411DD2131}|Snake\\Snake.csproj|c:\\users\\nikanatenaze\\desktop\\githubprojects\\snake-console\\snake\\gameclasses\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470AA019-48BD-4A54-8DE3-B3B411DD2131}|Snake\\Snake.csproj|solutionrelative:snake\\gameclasses\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{470AA019-48BD-4A54-8DE3-B3B411DD2131}|Snake\\Snake.csproj|c:\\users\\nikanatenaze\\desktop\\githubprojects\\snake-console\\snake\\gameclasses\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{470AA019-48BD-4A54-8DE3-B3B411DD2131}|Snake\\Snake.csproj|solutionrelative:snake\\gameclasses\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{470AA019-48BD-4A54-8DE3-B3B411DD2131}|Snake\\Snake.csproj|c:\\users\\nikanatenaze\\desktop\\githubprojects\\snake-console\\snake\\menu\\gamemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{470AA019-48BD-4A54-8DE3-B3B411DD2131}|Snake\\Snake.csproj|solutionrelative:snake\\menu\\gamemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{470AA019-48BD-4A54-8DE3-B3B411DD2131}|Snake\\Snake.csproj|c:\\users\\nikanatenaze\\desktop\\githubprojects\\snake-console\\snake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470AA019-48BD-4A54-8DE3-B3B411DD2131}|Snake\\Snake.csproj|solutionrelative:snake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{470AA019-48BD-4A54-8DE3-B3B411DD2131}|Snake\\Snake.csproj|c:\\users\\nikanatenaze\\desktop\\githubprojects\\snake-console\\snake\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{470AA019-48BD-4A54-8DE3-B3B411DD2131}|Snake\\Snake.csproj|solutionrelative:snake\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{470AA019-48BD-4A54-8DE3-B3B411DD2131}|Snake\\Snake.csproj|c:\\users\\nikanatenaze\\desktop\\githubprojects\\snake-console\\snake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{470AA019-48BD-4A54-8DE3-B3B411DD2131}|Snake\\Snake.csproj|solutionrelative:snake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{470AA019-48BD-4A54-8DE3-B3B411DD2131}|Snake\\Snake.csproj|c:\\users\\nikanatenaze\\desktop\\githubprojects\\snake-console\\snake\\menu\\gamemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470AA019-48BD-4A54-8DE3-B3B411DD2131}|Snake\\Snake.csproj|solutionrelative:snake\\menu\\gamemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470AA019-48BD-4A54-8DE3-B3B411DD2131}|Snake\\Snake.csproj|c:\\users\\nikanatenaze\\desktop\\githubprojects\\snake-console\\snake\\gameclasses\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470AA019-48BD-4A54-8DE3-B3B411DD2131}|Snake\\Snake.csproj|solutionrelative:snake\\gameclasses\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{470AA019-48BD-4A54-8DE3-B3B411DD2131}|Snake\\Snake.csproj|c:\\users\\nikanatenaze\\desktop\\githubprojects\\snake-console\\snake\\design\\custom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,26 +58,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GameMenu.cs",
               "DocumentMoniker": "C:\\Users\\nikanatenaze\\Desktop\\GitHubProjects\\Snake-Console\\Snake\\Menu\\GameMenu.cs",
               "RelativeDocumentMoniker": "Snake\\Menu\\GameMenu.cs",
               "ToolTip": "C:\\Users\\nikanatenaze\\Desktop\\GitHubProjects\\Snake-Console\\Snake\\Menu\\GameMenu.cs",
               "RelativeToolTip": "Snake\\Menu\\GameMenu.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAswDQAAAAAAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAADwv4MAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T18:15:22.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\nikanatenaze\\Desktop\\GitHubProjects\\Snake-Console\\Snake\\Menu\\Menu.cs",
               "RelativeDocumentMoniker": "Snake\\Menu\\Menu.cs",
               "ToolTip": "C:\\Users\\nikanatenaze\\Desktop\\GitHubProjects\\Snake-Console\\Snake\\Menu\\Menu.cs",
               "RelativeToolTip": "Snake\\Menu\\Menu.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABcAAAAUAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T13:02:11.637Z",
               "EditorCaption": ""
@@ -121,25 +121,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\nikanatenaze\\Desktop\\GitHubProjects\\Snake-Console\\Snake\\GameClasses\\Game.cs",
-              "RelativeDocumentMoniker": "Snake\\GameClasses\\Game.cs",
-              "ToolTip": "C:\\Users\\nikanatenaze\\Desktop\\GitHubProjects\\Snake-Console\\Snake\\GameClasses\\Game.cs",
-              "RelativeToolTip": "Snake\\GameClasses\\Game.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAswBsAAAAZAAAA",
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\nikanatenaze\\Desktop\\GitHubProjects\\Snake-Console\\Snake\\GameClasses\\Main.cs",
+              "RelativeDocumentMoniker": "Snake\\GameClasses\\Main.cs",
+              "ToolTip": "C:\\Users\\nikanatenaze\\Desktop\\GitHubProjects\\Snake-Console\\Snake\\GameClasses\\Main.cs",
+              "RelativeToolTip": "Snake\\GameClasses\\Main.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T11:23:59.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Board.cs",
               "DocumentMoniker": "C:\\Users\\nikanatenaze\\Desktop\\GitHubProjects\\Snake-Console\\Snake\\GameClasses\\Board.cs",
               "RelativeDocumentMoniker": "Snake\\GameClasses\\Board.cs",
               "ToolTip": "C:\\Users\\nikanatenaze\\Desktop\\GitHubProjects\\Snake-Console\\Snake\\GameClasses\\Board.cs",
               "RelativeToolTip": "Snake\\GameClasses\\Board.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAoAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwBwAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T11:23:55.321Z",
               "EditorCaption": ""
@@ -147,25 +147,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Snake.cs",
-              "DocumentMoniker": "C:\\Users\\nikanatenaze\\Desktop\\GitHubProjects\\Snake-Console\\Snake\\GameClasses\\Snake.cs",
-              "RelativeDocumentMoniker": "Snake\\GameClasses\\Snake.cs",
-              "ToolTip": "C:\\Users\\nikanatenaze\\Desktop\\GitHubProjects\\Snake-Console\\Snake\\GameClasses\\Snake.cs",
-              "RelativeToolTip": "Snake\\GameClasses\\Snake.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAwCAAAAAqAAAA",
+              "Title": "SnakeC.cs",
+              "DocumentMoniker": "C:\\Users\\nikanatenaze\\Desktop\\GitHubProjects\\Snake-Console\\Snake\\GameClasses\\SnakeC.cs",
+              "RelativeDocumentMoniker": "Snake\\GameClasses\\SnakeC.cs",
+              "ToolTip": "C:\\Users\\nikanatenaze\\Desktop\\GitHubProjects\\Snake-Console\\Snake\\GameClasses\\SnakeC.cs",
+              "RelativeToolTip": "Snake\\GameClasses\\SnakeC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T11:19:09.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nikanatenaze\\Desktop\\GitHubProjects\\Snake-Console\\Snake\\Program.cs",
               "RelativeDocumentMoniker": "Snake\\Program.cs",
               "ToolTip": "C:\\Users\\nikanatenaze\\Desktop\\GitHubProjects\\Snake-Console\\Snake\\Program.cs",
               "RelativeToolTip": "Snake\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T11:18:55.016Z",
               "EditorCaption": ""

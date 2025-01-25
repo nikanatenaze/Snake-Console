@@ -1,4 +1,5 @@
 ﻿using Snake.GameClasses;
 using Snake.Menu;
 
-Menu.Start();
+Main game = new Main(1, 1);
+game.GameSnake.Write();

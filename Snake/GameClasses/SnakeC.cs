@@ -6,33 +6,14 @@ using System.Threading.Tasks;
 
 namespace Snake.GameClasses
 {
-    public class Snake
+    public class SnakeC : Main
     {
-        public int Width { get; set; }
-        public int Height { get; set; }
-        public bool FoodExists { get; set; } = false;
-        public (int X, int Y) FoodCords { get; set; }
         public static List<(int x, int y)> Parts = new List<(int x, int y)>();
         public static (int x, int y) Direction { get; set; }
-
-        public Snake(int Width, int Height, (int, int) direction, (int, int) FoodCords)
+        public SnakeC()
         {
-            this.Width = Width;
-            this.Height = Height;
+            Direction = (0, -1);
             Parts.Add((Width / 2, Height / 2));
-            Direction = direction;
-            this.FoodCords = FoodCords;
-        }
-        public Snake()
-        {
-            Width = 50;
-            Height = 25;
-            Parts.Add((Width / 2, Height / 2));
-        }
-
-        public static void UpdateFoodCords(int x, int y)
-        {
-            Direction = (x, y);
         }
 
         public bool Move()
@@ -64,11 +45,14 @@ namespace Snake.GameClasses
             }
         }
 
-        public void Run()
+        public bool Run()
         {
-            if(Move())
+            while(true)
             {
-                
+                if (!Move())
+                {
+                    return false;
+                }
             }
         }
 

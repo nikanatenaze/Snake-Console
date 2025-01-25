@@ -11,6 +11,7 @@ namespace Snake.Menu
 {
     internal class Menu
     {
+        public static Main i = new Main();
         public static void Start()
         {
             var values = new List<string>() { "Play", "Exit" };
@@ -20,7 +21,6 @@ namespace Snake.Menu
         }
 
         public static void Play() {
-            var i = new Game();
             i.Run();
         }
 
